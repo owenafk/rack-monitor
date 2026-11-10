@@ -1,0 +1,89 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1600' height='1040' viewBox='0 0 1600 1040'>
+<rect width='1600' height='1040' fill='white'/>
+<text x='800.0' y='62' font-family='Helvetica, Arial, sans-serif' font-size='40' fill='#222' text-anchor='middle' font-weight='bold'>Rack Monitor wiring</text>
+<text x='800.0' y='100' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='#555' text-anchor='middle' font-weight='normal'>All 3.3 V. Wires soldered straight to the ESP pads. Match pins by the labels printed on your boards.</text>
+<rect x='90' y='160' width='250' height='410' rx='14' fill='#6a3fb5' stroke='#3d2370' stroke-width='3'/>
+<text x='195.0' y='205' font-family='Helvetica, Arial, sans-serif' font-size='30' fill='white' text-anchor='middle' font-weight='bold'>AHT10</text>
+<circle cx='340' cy='300' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='318' y='308' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='end' font-weight='bold'>VIN</text>
+<circle cx='340' cy='370' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='318' y='378' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='end' font-weight='bold'>GND</text>
+<circle cx='340' cy='440' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='318' y='448' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='end' font-weight='bold'>SCL</text>
+<circle cx='340' cy='510' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='318' y='518' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='end' font-weight='bold'>SDA</text>
+<text x='215.0' y='605' font-family='Helvetica, Arial, sans-serif' font-size='20' fill='#555' text-anchor='middle' font-weight='normal'>temperature + humidity</text>
+<rect x='610' y='140' width='380' height='600' rx='14' fill='#1b1b1b' stroke='#000' stroke-width='3'/>
+<rect x='745.0' y='118' width='110' height='48' rx='8' fill='#bdbdbd' stroke='#777' stroke-width='3'/>
+<text x='800.0' y='150' font-family='Helvetica, Arial, sans-serif' font-size='20' fill='#222' text-anchor='middle' font-weight='bold'>USB-C</text>
+<text x='800.0' y='215' font-family='Helvetica, Arial, sans-serif' font-size='32' fill='white' text-anchor='middle' font-weight='bold'>ESP32-C3</text>
+<text x='800.0' y='250' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#cccccc' text-anchor='middle' font-weight='normal'>Super Mini</text>
+<circle cx='610' cy='300' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='632' y='308' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='start' font-weight='bold'>3.3 (3V3)</text>
+<circle cx='610' cy='370' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='632' y='378' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='start' font-weight='bold'>G (GND)</text>
+<circle cx='610' cy='440' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='632' y='448' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='start' font-weight='bold'>7 (GPIO7)</text>
+<circle cx='610' cy='510' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='632' y='518' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='start' font-weight='bold'>6 (GPIO6)</text>
+<circle cx='990' cy='300' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='968' y='308' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='end' font-weight='bold'>10 (GPIO10)</text>
+<circle cx='990' cy='510' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='968' y='518' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='end' font-weight='bold'>0 (GPIO0)</text>
+<text x='800.0' y='700' font-family='Helvetica, Arial, sans-serif' font-size='20' fill='#bbbbbb' text-anchor='middle' font-weight='normal'>USB-C 5 V powers everything</text>
+<rect x='1240' y='160' width='270' height='410' rx='14' fill='#1f5fbf' stroke='#123a75' stroke-width='3'/>
+<text x='1395.0' y='205' font-family='Helvetica, Arial, sans-serif' font-size='30' fill='white' text-anchor='middle' font-weight='bold'>LM393</text>
+<text x='1395.0' y='236' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='#dde8ff' text-anchor='middle' font-weight='normal'>rain board</text>
+<circle cx='1240' cy='300' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='1262' y='308' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='start' font-weight='bold'>VCC</text>
+<circle cx='1240' cy='370' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='1262' y='378' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='start' font-weight='bold'>GND</text>
+<circle cx='1240' cy='440' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='1262' y='448' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='start' font-weight='bold'>DO</text>
+<circle cx='1240' cy='510' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<text x='1262' y='518' font-family='Helvetica, Arial, sans-serif' font-size='22' fill='white' text-anchor='start' font-weight='bold'>AO</text>
+<text x='1390' y='448' font-family='Helvetica, Arial, sans-serif' font-size='18' fill='#bcd0f5' text-anchor='start' font-weight='normal'>not used</text>
+<circle cx='1350.0' cy='570' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<circle cx='1400.0' cy='570' r='9' fill='#d4af37' stroke='#7a6420' stroke-width='2'/>
+<rect x='1200' y='720' width='350' height='190' rx='8' fill='#c9a46a' stroke='#7a5c3a' stroke-width='3'/>
+<line x1='1230' y1='745' x2='1480' y2='745' stroke='#e8e0c8' stroke-width='6'/>
+<line x1='1270' y1='768' x2='1520' y2='768' stroke='#e8e0c8' stroke-width='6'/>
+<line x1='1230' y1='791' x2='1480' y2='791' stroke='#e8e0c8' stroke-width='6'/>
+<line x1='1270' y1='814' x2='1520' y2='814' stroke='#e8e0c8' stroke-width='6'/>
+<line x1='1230' y1='837' x2='1480' y2='837' stroke='#e8e0c8' stroke-width='6'/>
+<line x1='1270' y1='860' x2='1520' y2='860' stroke='#e8e0c8' stroke-width='6'/>
+<line x1='1230' y1='883' x2='1480' y2='883' stroke='#e8e0c8' stroke-width='6'/>
+<text x='1375' y='942' font-family='Helvetica, Arial, sans-serif' font-size='19' fill='#555' text-anchor='middle' font-weight='normal'>sensing plate (on the rack floor = leak detector)</text>
+<text x='1375' y='968' font-family='Helvetica, Arial, sans-serif' font-size='19' fill='#7a5c3a' text-anchor='middle' font-weight='normal'>2-wire cable, either way round, exits the back</text>
+<path d='M1350.0,570 L1350.0,640 L1320,640 L1320,720' fill='none' stroke='#7a5c3a' stroke-width='6' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M1400.0,570 L1400.0,660 L1430,660 L1430,720' fill='none' stroke='#7a5c3a' stroke-width='6' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M540,370 L540,800 L1160,800 L1160,370 L1240,370' fill='none' stroke='#222222' stroke-width='7' stroke-linejoin='round' stroke-linecap='round'/>
+<text x='560' y='834' font-family='Helvetica, Arial, sans-serif' font-size='19' fill='#444' text-anchor='start' font-weight='normal'>both GNDs share the ESP's single G pad</text>
+<path d='M340,300 L610,300' fill='none' stroke='white' stroke-width='17' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M340,300 L610,300' fill='none' stroke='#d62828' stroke-width='7' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M340,370 L610,370' fill='none' stroke='white' stroke-width='17' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M340,370 L610,370' fill='none' stroke='#222222' stroke-width='7' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M340,440 L610,440' fill='none' stroke='white' stroke-width='17' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M340,440 L610,440' fill='none' stroke='#e0a100' stroke-width='7' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M340,510 L610,510' fill='none' stroke='white' stroke-width='17' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M340,510 L610,510' fill='none' stroke='#1d6fd6' stroke-width='7' stroke-linejoin='round' stroke-linecap='round'/>
+<circle cx='540' cy='370' r='11' fill='#222222'/>
+<path d='M990,300 L1240,300' fill='none' stroke='white' stroke-width='17' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M990,300 L1240,300' fill='none' stroke='#e76f00' stroke-width='7' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M990,510 L1240,510' fill='none' stroke='white' stroke-width='17' stroke-linejoin='round' stroke-linecap='round'/>
+<path d='M990,510 L1240,510' fill='none' stroke='#2a9d4b' stroke-width='7' stroke-linejoin='round' stroke-linecap='round'/>
+<line x1='90' y1='900' x2='130' y2='900' stroke='#d62828' stroke-width='8' stroke-linecap='round'/>
+<text x='142' y='908' font-family='Helvetica, Arial, sans-serif' font-size='20' fill='#333' text-anchor='start' font-weight='normal'>3.3 V</text>
+<line x1='235' y1='900' x2='275' y2='900' stroke='#222222' stroke-width='8' stroke-linecap='round'/>
+<text x='287' y='908' font-family='Helvetica, Arial, sans-serif' font-size='20' fill='#333' text-anchor='start' font-weight='normal'>GND</text>
+<line x1='358' y1='900' x2='398' y2='900' stroke='#1d6fd6' stroke-width='8' stroke-linecap='round'/>
+<text x='410' y='908' font-family='Helvetica, Arial, sans-serif' font-size='20' fill='#333' text-anchor='start' font-weight='normal'>SDA</text>
+<line x1='481' y1='900' x2='521' y2='900' stroke='#e0a100' stroke-width='8' stroke-linecap='round'/>
+<text x='533' y='908' font-family='Helvetica, Arial, sans-serif' font-size='20' fill='#333' text-anchor='start' font-weight='normal'>SCL</text>
+<line x1='604' y1='900' x2='644' y2='900' stroke='#e76f00' stroke-width='8' stroke-linecap='round'/>
+<text x='656' y='908' font-family='Helvetica, Arial, sans-serif' font-size='20' fill='#333' text-anchor='start' font-weight='normal'>rain power (GPIO10)</text>
+<line x1='903' y1='900' x2='943' y2='900' stroke='#2a9d4b' stroke-width='8' stroke-linecap='round'/>
+<text x='955' y='908' font-family='Helvetica, Arial, sans-serif' font-size='20' fill='#333' text-anchor='start' font-weight='normal'>analog signal</text>
+<text x='90' y='960' font-family='Helvetica, Arial, sans-serif' font-size='19' fill='#555' text-anchor='start' font-weight='normal'>The rain board is powered from GPIO10 so it is only switched on for each reading — this stops the plate corroding.</text>
+<text x='90' y='988' font-family='Helvetica, Arial, sans-serif' font-size='19' fill='#555' text-anchor='start' font-weight='normal'>Don't power the rain board from 5 V: its output would be more than the ESP can read.</text>
+</svg>
